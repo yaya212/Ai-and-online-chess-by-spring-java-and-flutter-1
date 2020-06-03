@@ -1,6 +1,6 @@
-##Spring Boot Websocket Chess Application
+## Spring Boot Websocket Chess Application
 
-##Getting Started:
+## Getting Started:
 
 This project is the backend of a chess app developed by Flutter which handles the communication between the app and the server. It is responsible for any creation of game sessions and linking the players with each other.
 The chess app can be found in the following repository:
